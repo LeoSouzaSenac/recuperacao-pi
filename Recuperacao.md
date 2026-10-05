@@ -3,7 +3,7 @@
 
 ### IMPORTANTE: se for detectado o uso de IA para produzir o trabalho (salvo apenas para estudo), o aluno estará automaticamente reprovado.
 
-### MAaterial de estudo de backend: https://backend-game-ashy.vercel.app/
+### Material de estudo de backend: https://backend-game-ashy.vercel.app/
 
 ### Objetivo
 
