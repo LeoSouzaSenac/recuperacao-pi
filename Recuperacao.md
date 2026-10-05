@@ -45,15 +45,6 @@ O tema do sistema pode ser escolhido pelo aluno, desde que seja aprovado pelo pr
 Exemplos de sistemas possíveis:
 
 - sistema de tarefas;
-- sistema de biblioteca;
-- sistema de estoque;
-- sistema de produtos;
-- sistema de clientes;
-- sistema de eventos;
-- sistema de agendamentos;
-- sistema de chamados;
-- sistema de cursos;
-- sistema de filmes ou jogos.
 
 O sistema deve possuir obrigatoriamente pelo menos duas entidades principais:
 
