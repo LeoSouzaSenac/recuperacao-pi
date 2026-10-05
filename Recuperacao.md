@@ -49,27 +49,13 @@ Exemplos de sistemas possíveis:
 O sistema deve possuir obrigatoriamente pelo menos duas entidades principais:
 
 - `User`
-- uma entidade relacionada ao tema escolhido pelo aluno.
+- `Tasks`
 
 Exemplo:
 
 ```text
 User
 Task
-```
-
-ou:
-
-```text
-User
-Product
-```
-
-ou:
-
-```text
-User
-Book
 ```
 
 ---
@@ -538,11 +524,7 @@ Exemplos:
 
 # 17. Front-end
 
-O front-end deverá ser desenvolvido utilizando:
-
-- React;
-- Vite;
-- JavaScript ou TypeScript.
+O front-end deverá ser desenvolvido utilizando qualquer tecnologia aprendida durante o curso.
 
 O front-end deverá consumir a API criada pelo próprio aluno.
 
